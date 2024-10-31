@@ -116,3 +116,4 @@ class Rectangle:
                 type(other) == Rectangle and
                 self.top_left == other.top_left and
                 self.bottom_right == other.bottom_right)
+
